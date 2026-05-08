@@ -1,5 +1,4 @@
-# Customer-Segmentation-Analysis
-Customer Segmentation project using Python and KNN algorithm to analyze customer purchasing behavior and generate business insights.
+
 # Customer Segmentation using KNN
 
 This project uses Python and the K-Nearest Neighbors (KNN) algorithm to analyze customer purchasing behavior and perform customer segmentation.
